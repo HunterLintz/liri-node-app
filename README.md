@@ -1,5 +1,5 @@
 # LIRI Bot
-### Developed by Hunter Lintz
+### A node app developed by Hunter Lintz
 
 ## LIRI can do the following things
 * Search a band for upcoming concerts.
@@ -14,6 +14,8 @@
 * Various API's
 
 ## How to Run LIRI
+* Once downloaded you need to have a create a .env file and add this replacing the values with your spotify id and spotify secret both of which you can get here: https://developer.spotify.com/my-applications/#!/
+![env image](/images/env.PNG)
 * Open gitbash and run the command 'node ./liri.js (YOUR SEARCH TYPE) (YOUR SEARCH QUERY)'
 * Search types can be any of the following
 	* "concert-this"
