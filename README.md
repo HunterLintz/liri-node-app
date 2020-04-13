@@ -18,7 +18,7 @@
 * Search types can be any of the following
 	* "concert-this"
 	* "spotify-this-song"
-	*"movie-this"
+	* "movie-this"
 	* "do-what-it-says"
 * Your search query can be any band, song, or movie depending on which search type you use.
 
