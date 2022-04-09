@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "mdash": "^0.1.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-spotify-api": "^1.1.1"
   }
 }
